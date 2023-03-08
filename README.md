@@ -3,6 +3,6 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
-<a href="https://fehmj.github.io/HTML5-E-CSS3/Exerc%C3%ADcios/ex001/index.html">Executar o Exercício ex001<a>
+<a href="https://fehmj.github.io/HTML5-E-CSS3/Exercícios/ex001/index.html">Executar o Exercício ex001<a>
 
 
